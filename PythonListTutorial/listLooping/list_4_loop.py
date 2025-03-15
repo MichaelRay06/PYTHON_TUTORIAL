@@ -13,3 +13,12 @@ for i in list1 :
 for x in list1:
     if x  in list2:
         print(x)
+
+
+
+
+
+count2 = 0
+for count2 in range(len(list1)):
+    count2 = count2 + 1
+    print(count2)
